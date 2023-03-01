@@ -1,0 +1,27 @@
+.footer {
+    text-align: center;
+    color: #777;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a,
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active,
+a:focus {
+    color: orangered;
+}
